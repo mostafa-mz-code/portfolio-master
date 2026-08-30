@@ -1,0 +1,21 @@
+# Mostafa Meerzad
+
+> Self-taught full-stack and mobile developer based in Kabul, Afghanistan, working AI-first with Claude Code and Cursor. Currently a Full Stack Developer at Webistan.cloud.
+
+## What I do
+- Production full-stack web and mobile applications (TypeScript, React, Next.js, React Native/Expo, Node.js, NestJS, PostgreSQL, Prisma)
+- Offline-first / sync-tolerant systems for unreliable network conditions
+- AI-accelerated development workflows
+
+## Key projects
+- [Projects page](https://portfolio-navy-seven-11.vercel.app/projects) — full list of production, freelance, and open-source work
+- POS System — offline-capable multi-branch point-of-sale platform, live in production
+- Fixr — reverse-bidding home services marketplace, solo-built AI-first
+
+## Background
+- [About page](https://portfolio-navy-seven-11.vercel.app/about) — journey, skills, certifications
+- 160+ public GitHub repositories: https://github.com/mostafa-meerzad
+- LinkedIn: https://www.linkedin.com/in/mostafa-meerzad/
+
+## Contact
+- [Contact page](https://portfolio-navy-seven-11.vercel.app/contact)

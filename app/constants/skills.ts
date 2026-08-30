@@ -75,6 +75,9 @@ const skillsAndTools: SkillAndTool[] = [
     title: "tools",
     skillSet: [
       { name: "Git & Github", Img: FaGithub },
+      { name: "Claude Code", Img: SiFramer },
+      { name: "Cursor", Img: VscVscode },
+      { name: "GitHub Copilot", Img: FaGithub },
       { name: "Vercel", Img: RiVercelLine },
       { name: "VsCode", Img: VscVscode },
       { name: "Postman", Img: SiPostman },

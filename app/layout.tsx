@@ -33,7 +33,7 @@ export const metadata = {
   authors: [
     {
       name: "Mostafa Meerzad",
-      url: "https://www.linkedin.com/in/mostafa-meerzad-a753371b7/",
+      url: "https://www.linkedin.com/in/mostafa-meerzad/",
     },
   ],
   creator: "Mostafa Meerzad",

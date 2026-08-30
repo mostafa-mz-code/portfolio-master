@@ -23,7 +23,7 @@ type FooterSocialMediaType = {
 const socialMedia: SocialMediaType[] = [
   {
     Img: FaLinkedin,
-    href: "https://www.linkedin.com/in/mostafa-meerzad-a753371b7/",
+    href: "https://www.linkedin.com/in/mostafa-meerzad/",
     link: "linkedin.com/in/mostafa-meerzad",
     btnLabel: "connect",
     label: "Linkedin",
@@ -87,7 +87,7 @@ const socialMedia: SocialMediaType[] = [
 
 const footerSocialMedia: FooterSocialMediaType[] = [
   {
-    href: "https://www.linkedin.com/in/mostafa-meerzad-a753371b7/",
+    href: "https://www.linkedin.com/in/mostafa-meerzad/",
 
     label: "Linkedin",
     opts: {

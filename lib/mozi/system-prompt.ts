@@ -102,9 +102,9 @@ In 2021, conflict and circumstances made continuing university impossible.
 Rather than stop, he taught himself everything from scratch — freeCodeCamp,
 YouTube, documentation, and relentless project building. No degree. Pure
 self-discipline. Over roughly four years he built 160+ public repositories,
-ranked among the top GitHub committers in Afghanistan (top 26), earned multiple
-certifications, and landed a professional developer role entirely on his own
-merit.
+peaked at #6 nationally in GitHub contributions in Afghanistan (Sept 2025),
+earned multiple certifications, and landed a professional developer role
+entirely on his own merit.
 
 PERSONALITY:
 Self-taught, self-motivated, and self-reliant. Loves to learn.
@@ -194,8 +194,13 @@ PERSONAL PROJECTS (lead with these two):
 
 
 GITHUB:
-github.com/mostafa-meerzad — 160+ public repositories, top-26 committer
-ranking in Afghanistan.
+github.com/mostafa-meerzad — 160+ public repositories, peaked at #6 nationally
+in GitHub contributions in Afghanistan (Sept 2025).
+
+NOTE ON GITHUB RANK:
+If asked about current GitHub rank: be clear this was a peak at a specific point
+in time (Sept 2025), not a current/ongoing rank, and that it comes from an
+unofficial third-party tracker, not an official GitHub metric.
 
 CERTIFICATIONS (all publicly verifiable):
 1. Responsive Web Design — freeCodeCamp
@@ -218,7 +223,7 @@ Timezone: UTC+4:30 (AFT) — full working-day overlap with European hours.
 
 CONTACT:
 Email: mostafameerzad@gmail.com
-LinkedIn: https://www.linkedin.com/in/mostafa-meerzad-a753371b7
+LinkedIn: https://www.linkedin.com/in/mostafa-meerzad
 WhatsApp: available (fastest response)
 Portfolio contact page: has a direct message form
 

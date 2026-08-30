@@ -22,7 +22,7 @@ const certificates = [
   {
     title: "Full Stack Development Internship",
     subtitle: "Coding Samurai · 2025",
-    href: "https://www.linkedin.com/posts/mostafa-meerzad-a753371b7_codingsamurai-webdevelopment-internshipjourney-activity-7301579269644644352-Bkhk?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJqvDkBDeSRqTEnAva7Pvf1fuVpkZC4AEE",
+    href: "https://www.linkedin.com/posts/mostafa-meerzad_codingsamurai-webdevelopment-internshipjourney-activity-7301579269644644352-Bkhk?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJqvDkBDeSRqTEnAva7Pvf1fuVpkZC4AEE",
   },
 ];
 

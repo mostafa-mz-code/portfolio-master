@@ -65,7 +65,7 @@ const productionProjects: ProductionType[] = [
     subtitle: "My role: Full-stack · Backend-heavy",
     badges: [" Production", "Webistan.cloud", "Backend focus"],
     description:
-      "Custom point-of-sale platform built for a local pet supplies business. Manages sales, inventory, customers, suppliers, deliveries, and multi-branch operations — with offline support (IndexedDB, sync on reconnect) for unstable connections. Currently live across 3 branches with full management control.",
+      "A local pet supplies business needed a point-of-sale system that wouldn't break when the internet did. I built a custom POS with offline-first architecture (IndexedDB, auto-sync on reconnect) so sales, inventory, and customer records stay accurate across 3 branches even through unstable connections — with full multi-branch management from one dashboard.",
     technologies: [
       "Next.js",
       "MySQL",
@@ -85,7 +85,7 @@ const productionProjects: ProductionType[] = [
     subtitle: " My role: Full frontend · Admin panel",
     badges: [" Production", "Webistan.cloud", "Frontend focus"],
     description:
-      "Online reading platform serving users globally. Features book discovery, preference-based recommendations, search and filtering, and a full admin panel for content and user management.",
+      "A publishing client needed readers to discover books and manage content without friction. I built an online reading platform with book discovery, preference-based recommendations, search and filtering, and a full admin panel for content and user management — improving discoverability and editorial control.",
     technologies: [
       "Next.js",
       "MySQL",
@@ -109,7 +109,7 @@ const flagshipProjects: ProductionType[] = [
     subtitle: "My role: Everything — design, backend, admin, mobile",
     badges: ["Personal · AI-first · Solo-built", "Pre-Launch"],
     description:
-      "Reverse-bidding home services marketplace for Kabul. Homeowners post jobs, verified experts bid using credits, and zone-aware matching connects the two. NestJS + Prisma API, Next.js admin panel, and a React Native (Expo) mobile app with OTP auth, push notifications, and real-time chat — on a custom design system.",
+      "Home-service marketplaces usually make customers guess at a price. Fixr flips that: customers post a job and providers bid on it, so pricing is competitive and transparent from the start. Solo-built end to end using Claude Code and Cursor — NestJS + Prisma API on one side, Next.js admin panel and a React Native (Expo) mobile app on the client side.",
     technologies: [
       "NestJS",
       "Prisma",
@@ -148,7 +148,7 @@ const personalProjects: ProjectType[] = [
     // NOTE: this is a demo video on LinkedIn, not a live app — make sure the
     // button label reads "Watch Demo", not "Live Demo"
     preview:
-      "https://www.linkedin.com/posts/mostafa-meerzad-a753371b7_reactnative-expo-javascript-ugcPost-7461812493418393600-uhGY?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJqvDkBDeSRqTEnAva7Pvf1fuVpkZC4AEE",
+      "https://www.linkedin.com/posts/mostafa-meerzad_reactnative-expo-javascript-ugcPost-7461812493418393600-uhGY?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJqvDkBDeSRqTEnAva7Pvf1fuVpkZC4AEE",
     desktopImg: movieFlexDesktop,
     mobileImg: movieFlexDesktop,
   },

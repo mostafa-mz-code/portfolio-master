@@ -32,7 +32,7 @@ const contacts: ContactsType[] = [
     icon: <FaLinkedin />,
     label: "LinkedIn",
     value: "linkedin.com/in/mostafa-meerzad",
-    href: "https://www.linkedin.com/in/mostafa-meerzad-a753371b7/",
+    href: "https://www.linkedin.com/in/mostafa-meerzad/",
   },
 ];
 

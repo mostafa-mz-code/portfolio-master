@@ -53,7 +53,7 @@ You can reach me through:
 
 - 📧 Email: [meerzad.dev@gmail.com](mailto:mostafameerzad@gmail.com?subject=👋%20Let's%20Talk%20About%20a%20Project)
 - 📱 WhatsApp: [Chat on WhatsApp](https://wa.me/93790306378)
-- 💼 [LinkedIn](https://linkedin.com/in/mostafa-meerzad-a753371b7)
+- 💼 [LinkedIn](https://linkedin.com/in/mostafa-meerzad)
 
 ---
 

@@ -38,18 +38,16 @@ const Hero = () => {
           }
         >
           <div className={"w-4 h-[1px] bg-primary"} />
-          <h2 className="text-xs font-courier font-light pt-1 ">
+          <p className="text-xs font-courier font-light pt-1">
             Full Stack Developer
-          </h2>
+          </p>
         </motion.div>
 
         <motion.div className="flex flex-col gap-2" variants={item}>
           <div className="flex items-center justify-center gap-5 md:flex-col md:items-start">
-            <h1 className=" text-white text-5xl md:text-5xl lg:text-6xl xl:text-7xl font-georgia ">
-              Mostafa
-            </h1>
-            <h1 className="text-primary text-5xl md:text-5xl lg:text-6xl xl:text-7xl font-georgia">
-              Meerzad
+            <h1 className="text-white text-5xl md:text-5xl lg:text-6xl xl:text-7xl font-georgia">
+              <span className="block">Mostafa</span>
+              <span className="text-primary block">Meerzad</span>
             </h1>
           </div>
           <div
@@ -67,9 +65,9 @@ const Hero = () => {
           >
             Self-taught in Kabul. Built{" "}
             <strong className={"text-white"}>production apps</strong> used by
-            real businesses. Top 26 GitHub committer in Afghanistan. Now
-            shipping at <strong className={"text-white"}>Webistan.cloud</strong>{" "}
-            — looking for my next challenge.
+            real businesses. Peaked #6 on GitHub nationally. Now shipping at{" "}
+            <strong className={"text-white"}>Webistan.cloud</strong> — looking
+            for my next challenge.
           </p>
         </motion.div>
 
@@ -155,7 +153,7 @@ const Hero = () => {
               transition={{ duration: 0.15 }}
             >
               <Button asChild variant={"outline"}>
-                <a href="/Mostafa_Meerzad_Resume.pdf" download>
+                <a href="/Mostafa-Meerzad-Full-Stack-Developer.pdf" download>
                   Download Resume
                 </a>
               </Button>

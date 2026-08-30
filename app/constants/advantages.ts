@@ -1,7 +1,7 @@
 const info = [
-  { item: "4", addon: "+", desc: "years of experience" },
+  { item: "4", addon: "+", desc: "years self-taught" },
   { item: "160", addon: "+", desc: "public repos" },
-  { item: "top", addon: "26", desc: "github · committer" },
+  { item: "6", addon: "th", desc: "peak github rank · '25" },
   { item: "2", addon: null, desc: "professional apps shipped" },
 ];
 
