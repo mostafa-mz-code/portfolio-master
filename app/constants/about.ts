@@ -32,8 +32,8 @@ export const githubProfile: GithubProfile = {
   handle: "mostafa-meerzad",
   profileUrl: "https://github.com/mostafa-meerzad",
   repoCount: "160+",
-  yearsLabel: "5 yrs",
-  activePeriod: "Account since 2020, actively coding and solving problems",
+  yearsLabel: "6 yrs",
+  activePeriod: "2020–present",
   rankLabel: "Peaked #6",
   rankSuffix: "nationally · Sept 2025",
   rankSourceUrl:

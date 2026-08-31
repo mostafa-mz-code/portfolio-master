@@ -203,6 +203,19 @@ const AboutMe = () => {
                 {githubProfile.rankSuffix}
               </span>
             </div>
+            <div className="text-[10px] leading-relaxed text-muted-foreground/80">
+              Ranked #6 nationally in public GitHub contributions (Afghanistan)
+              as of Sept 2, 2025, per a public GitHub contributor-ranking{" "}
+              <Link
+                href={githubProfile.rankSourceUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-primary underline-offset-2 hover:underline"
+              >
+                tracker
+              </Link>
+              .
+            </div>
           </div>
 
           {/* Contribution strip */}
